@@ -6,7 +6,7 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>🏥 KLU Hospital</h1>
+      <h1>🏥 KLU Hospital Test</h1>
       <ul>
         {!isLoggedIn && (
           <>
